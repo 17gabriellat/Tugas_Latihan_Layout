@@ -252,7 +252,7 @@
                                 android:layout_height="18dp"
                                 android:layout_gravity="end|top"
                                 android:gravity="center"
-                                android:text="1"
+                                android:text="2"
                                 android:textSize="10sp"
                                 android:textColor="@android:color/white"
                                 android:background="@drawable/badge_red"/>
@@ -279,7 +279,7 @@
                                 android:layout_height="18dp"
                                 android:layout_gravity="end|top"
                                 android:gravity="center"
-                                android:text="1"
+                                android:text="3"
                                 android:textSize="10sp"
                                 android:textColor="@android:color/white"
                                 android:background="@drawable/badge_red"/>
